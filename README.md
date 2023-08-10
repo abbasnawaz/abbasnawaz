@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React JS**
 
-- 👯 I’m looking to collaborate on **Hotel Management System**
+- 👯 I’m looking to collaborate on **movement of autonomous vehicles**
 
 - 💬 Ask me about **Django, Express JS, MongoDB, Laravel, Machine Learning**
 
