@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Muhammad Abbas Chaudhary</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A passionate Backend developer from Pakistan</h3>
 
-- 🔭 I’m currently working on **Detection of different Criminal & Violent Activities**
+- 🔭 I’m currently working on **Enhancing Public Safety: Detection of Weapons and Violence in CCTV Videos with Deep Learning**
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **Ruby on Rails**
 
-- 👯 I’m looking to collaborate on **movement of autonomous vehicles**
+- 👯 I’m looking to collaborate on **Movement of Autonomous Vehicles**
 
-- 💬 Ask me about **Django, Express JS, MongoDB, Laravel, Machine Learning**
+- 💬 Ask me about **Django, Express JS, MongoDB, Ruby on Rails, Laravel, Machine Learning**
 
 - 📫 How to reach me **abbasnawaz125@gmail.com**
 
