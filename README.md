@@ -2,8 +2,8 @@
 <h3 align="center">A passionate Backend developer from Pakistan</h3>
 
 - 🔭 I’m currently working on **Enhancing Public Safety: Detection of Weapons and Violence in CCTV Videos with Deep Learning**
-
-- 🌱 I’m currently learning **Ruby on Rails**
+learning 
+- 🌱 I’m currently working on **Ruby on Rails**
 
 - 👯 I’m looking to collaborate on **Movement of Autonomous Vehicles**
 
