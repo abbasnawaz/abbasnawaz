@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Abbas Chaudhary</h1>
-<h3 align="center">A passionate Backend developer from Pakistan</h3>
+<h3 align="center">A passionate Computer Scientist from Pakistan</h3>
 
 - 🔭 I’m currently working on **Enhancing Public Safety: Detection of Weapons and Violence in CCTV Videos with Deep Learning**
 learning 
