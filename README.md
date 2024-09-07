@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Muhammad Abbas Chaudhary</h1>
-<h3 align="center">A passionate Computer Scientist from Pakistan</h3>
+<h3 align="center">A passionate Data Scientist</h3>
 
 - 🔭 I’m currently working on **Enhancing Public Safety: Detection of Weapons and Violence in CCTV Videos with Deep Learning**
 learning 
-- 🌱 I’m currently working on **Ruby on Rails**
+- 🌱 I’m currently working as **Data Scientist**
 
 - 👯 I’m looking to collaborate on **Movement of Autonomous Vehicles**
 
-- 💬 Ask me about **Django, Express JS, MongoDB, Ruby on Rails, Laravel, Machine Learning**
+- 💬 Ask me about **Djang, Ruby on Rails, Machine Learning**
 
 - 📫 How to reach me **abbasnawaz125@gmail.com**
 
