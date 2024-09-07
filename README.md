@@ -11,7 +11,7 @@ learning
 
 - 📫 How to reach me **abbasnawaz125@gmail.com**
 
-- ⚡ Fun fact **I think I am Funny**
+- ⚡ Fun fact ** I think I'm funny and always curious about learning new things! **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
