@@ -7,7 +7,7 @@ learning
 
 - 👯 I’m looking to collaborate on **Movement of Autonomous Vehicles**
 
-- 💬 Ask me about **Djang, Ruby on Rails, Machine Learning**
+- 💬 Ask me about **Machine Learning, AI Agents, Data Analyst, Data Processing, Data Mining, LLMs**
 
 - 📫 How to reach me **abbasnawaz125@gmail.com**
 
