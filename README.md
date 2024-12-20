@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Muhammad Abbas Chaudhary</h1>
 <h3 align="center">A passionate Data Scientist</h3>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=abbasnawaz&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 - 🔭 I’m currently working on **Enhancing Public Safety: Detection of Weapons and Violence in CCTV Videos with Deep Learning**
 learning 
 - 🌱 I’m currently working as **Data Scientist**
