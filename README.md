@@ -131,16 +131,6 @@ currently_learning: ["Modality Interference", "MLOPs", "Mastering MLLM's"]
 
 ---
 
-## 🏅 LeetCode Stats
-
-<div align="center">
-  
-[![LeetCode Stats](https://leetcode.card.workers.dev/abbasnawaz?theme=auto&font=baloo&extension=null&border=2&border_radius=8)](https://leetcode.com/u/abbasnawaz/)
-
-</div>
-
----
-
 ## 🎯 Current Projects
 
 - 🔥 **DashCam AI Services (HyperNym)** - real-time CV (seatbelt, distance, pedestrian, eyes-off-road) with Azure IoT & SignalR
