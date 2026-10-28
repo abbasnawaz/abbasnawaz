@@ -4,9 +4,13 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&text=Muhammad%20Abbas%20Chaudhary&reversal=false&section=header&fontColor=fff&fontSize=42&animation=fadeIn&descAlignY=51&fontAlignY=42&textBg=false"/>
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=440&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&width=440&height=45&lines=A+Passionate+Data+Scientist" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=440&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=520&height=45&lines=Machine+Learning+Engineer;Multimodal+LLM+Researcher;Seeking+a+PhD+for+Fall+2027" alt="Typing SVG" /></a>
 
 </div>
+
+---
+
+> 🎓 **Looking for a PhD position (Fall 2027).** I work on multimodal LLMs, computer vision and applied ML, and I am open to funded PhD positions in related AI/ML areas. If your lab is hiring, I would be glad to hear from you at **abbasnawaz125@gmail.com**.
 
 ---
 
@@ -17,27 +21,38 @@
 ```yaml
 name: Muhammad Abbas Chaudary
 located_in: Pakistan
-current_job: Data Scientist
-education: ["Bachelor in Computer Science ", "Master's in Data Science"]
-fields_of_interests: ["Machine Learning", "Deep Learning", "Computer Vision", "Data Science", "LLM's", "MLLM's", "AI Agents"]
-currently_learning: ["Modality Interference", "MLOPs", "Mastering MLLM's"]
+current_job: Machine Learning Engineer @ Tensorlabs
+education: ["BS Computer Science (GIFT University)", "MS Data Science (FAST-NUCES Islamabad)"]
+fields_of_interests: ["Multimodal LLMs", "Computer Vision", "Deep Learning", "Machine Learning", "AI Agents"]
+currently_seeking: "Funded PhD position, Fall 2027"
 ```
 
-- 🌱 Currently diving deep into **MultiModal Large Language Model** and **Modality Interference** 
-- 👨‍💻 Building innovative solutions at **HyperNym as Data Scientist**
-- 🔭 Working on exciting projects 
-- 💬 Ask me about **Data Science, Computer Vision, MLLM's** 
-- 📫 Reach me at **abbasnawaz125@gmail.com** 
+- 🎓 **MS thesis:** MIRRL, a lightweight reinforcement learning controller that reduces modality interference in multimodal large language models. The paper is currently under review at *Neural Networks* (Elsevier).
+- 👨‍💻 Building ML systems at **Tensorlabs** as a Machine Learning Engineer
+- 🔭 Previously at **HyperNym** (AI video analytics) and **Devsloop** (AI web apps and inference APIs)
+- 💬 Ask me about **Multimodal LLMs, Computer Vision, Data Science**
+- 📫 Reach me at **abbasnawaz125@gmail.com**
 - ⚡ Fun fact: I love turning coffee into code! ☕
 
 ---
+
+## 📄 Publications
+
+- **Detecting criminal and violent activities using computer vision** (IEEE) [[paper]](https://ieeexplore.ieee.org/document/10465800)
+- **IEEE paper** [[paper]](https://ieeexplore.ieee.org/abstract/document/11330036)
+- **MIRRL: A Lightweight Controller for Reducing Modality Interference in Multimodal Large Language Models** (under review, *Neural Networks*)
+
+Full list on [Google Scholar](https://scholar.google.com/citations?user=KshGWOAAAAAJ).
+
+---
+
 ## 🌐 Connect with Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dr-abbas-ch/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/chaudhary%20abbas%20nawaz)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/chaudhary%20abbas%20nawaz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abbas-ch/)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=KshGWOAAAAAJ)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abbasnawaz125@gmail.com)
 
 </div>
 
@@ -76,6 +91,8 @@ currently_learning: ["Modality Interference", "MLOPs", "Mastering MLLM's"]
 
 ### 🔧 Tools & Technologies
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
@@ -99,6 +116,17 @@ currently_learning: ["Modality Interference", "MLOPs", "Mastering MLLM's"]
 [![GitHub Streak](https://streak-stats.demolab.com/?user=abbasnawaz&theme=algolia)](https://git.io/streak-stats)
 
 </div>
+
+---
+
+## 🎯 Selected Projects
+
+- 🧠 **MIRRL (MS Thesis)** - RL-based controller for reducing modality interference in multimodal LLMs, with experiments on LLaVA, InternVL and Qwen2-VL
+- 🔐 **Shroudly** - document redaction and OCR platform with a 4-model PII detection pipeline
+- 🔥 **DashCam AI Services (HyperNym)** - real-time CV (seatbelt, distance, pedestrian, eyes-off-road) with Azure IoT & SignalR
+- 🏦 **Allied Bank People Counting & Gender Detection** - on-prem CV pipeline with Dockerized microservices & Power BI dashboards
+- 🏢 **VFQ-TwinScape Smart Building** - analytics stack for occupancy & alerts
+- 🚨 **Detection of Weapons and Violence in CCTV Videos** - deep learning for automated detection of weapons and violent activity in CCTV footage (published at IEEE)
 
 ---
 
@@ -131,22 +159,12 @@ currently_learning: ["Modality Interference", "MLOPs", "Mastering MLLM's"]
 
 ---
 
-## 🎯 Current Projects
-
-- 🔥 **DashCam AI Services (HyperNym)** - real-time CV (seatbelt, distance, pedestrian, eyes-off-road) with Azure IoT & SignalR
-- 🤖 **Allied Bank People Counting & Gender Detection** - on-prem CV pipeline with Dockerized microservices & Power BI dashboards
-- 🤖 **VFQ-TwinScape Smart Building** - analytics stack for occupancy & alerts
-- 🤖 **Modality Interference in MLLMs** - experiments with LLaVA/InternVL/Qwen2-VL; causal-aware fusion & robustness studies
-- 🤖 **Enhancing Public Safety: Detection of Weapons and Violence in CCTV Videos with Deep Learning** -  Research employs cutting-edge deep learning techniques to automate the detection of weapons and violent activities in CCTV footage
----
-
 <div align="center">
 
 <!-- Snake Animation -->
 <picture>
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
 </picture>
-
 
 </div>
 
